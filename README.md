@@ -1,8 +1,10 @@
-# MGP-VJ-Tool 萌娘百科VJ条目辅助工具
+# MGP-VS-Tool 萌娘百科虚拟歌手条目辅助工具
 
-Automatically generates Wikitext for Japanese VOCALOID songs, tailored specifically for the [Chinese Moegirlpedia](https://zh.moegirl.org.cn). If you are not a Chinese speaker, this project is probably useless to you.
+Automatically generates Wikitext for Virtual Singer songs, tailored specifically for the [Chinese Moegirlpedia](https://zh.moegirl.org.cn). If you are not a Chinese speaker, this project is probably useless to you.
 
-本程序用于生成自动[萌娘百科](https://zh.moegirl.org.cn)的日语VOCALOID歌曲条目。
+本程序用于生成自动[萌娘百科](https://zh.moegirl.org.cn)的VOCALOID歌曲条目。
+
+打算到寒假的时候升级一下这个项目。现在暂未开工。
 
 ## 启动方法
 
